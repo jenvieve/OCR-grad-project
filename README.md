@@ -12,4 +12,4 @@ You can either access the Google Colab link or download the Python Code for a Di
     - download the files for the Discord Bot: (bot.py), (utils.py), (modals.py)
     - please change the token to your bot token
     - you can run it in your discord
-    - type !startocr to begin the OCR bot
+    - upload an image or PDF to start the OCR bot
