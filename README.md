@@ -3,5 +3,12 @@ This is an OCR AI that can extract text from an image or PDF and convert it to e
 
 # 📝 How to use it:
 You can either access the Google Colab link or download the Python Code for a Discord Bot.
-- Using Google Colab: simply click the link and you can launch and use the code exactly as it is in Colab.
-- Using the Code:  download the files for the Discord Bot (the main file along with the supplemental ones), then please change the token to your bot token
+- Using Google Colab:
+    - click the OCR Colab file
+    - at the very top, you can see the option to Open in Colab
+    - press the button and the OCR will launch in your Google Colab
+    - you can use it directly by running each step 
+- Using the Code:
+    - download the files for the Discord Bot: bot.py and utils.py
+    - please change the token to your bot token
+    - you can run it in your discord
